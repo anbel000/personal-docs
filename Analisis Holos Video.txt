@@ -1,0 +1,81 @@
+¡Hola! He analizado detalladamente el video de 21 minutos que compartiste, basándome estrictamente en el modelo y las definiciones metodológicas del archivo `estimacion.md`.
+
+A continuación, presento las respuestas a tus preguntas, sustentadas en los criterios de tu documento:
+
+### 1. ¿Cuántas escenas existen en total en el curso?
+
+Basado en la definición de que un cambio de escena ocurre "cuando existe un cambio relevante en alguno de los siguientes elementos: el fondo o contexto visual principal, la composición general de la pantalla, la intención didáctica del segmento, la acción o comportamiento principal del personaje, o la forma en que se presenta la información.", se estima que el curso contiene aproximadamente **entre 150 y 160 escenas**.
+
+**Justificación del conteo:**
+
+* El documento establece que "la entrada de un elemento gráfico, la aparición de un texto clave... o el resaltado de un dato" son cambios internos y "no constituyen una unidad de cobro independiente". En el análisis, estos elementos (como íconos apareciendo junto al avatar) no se contaron como nuevas escenas.
+* Sin embargo, el video utiliza con mucha frecuencia placas de título a pantalla completa (fondos naranjas o amarillos sólidos con texto) para dividir subtemas. Cada vez que se pasa del escenario (ej. la mina) a una de estas placas, hay un cambio claro en "el fondo o contexto visual principal" y en "la composición general de la pantalla", lo que lo convierte en una nueva escena metodológicamente.
+* Aunque el documento señala como referencia que un "Curso de alta densidad visual" de 30 minutos tiene "entre 95 y 120 escenas", este curso de ~21 minutos supera esa proporción debido a que tiene una "fragmentación didáctica" sumamente ágil y constante.
+* *Nota metodológica:* Como bien indica el documento, la cantidad final y exacta "solo podrán definirse con precisión una vez se revise el contenido final aprobado" mediante el guion o storyboard.
+
+### 2. ¿Cuántas escenas de complejidad media existen en el curso?
+
+Del total estimado, aproximadamente **entre 110 y 120 escenas** corresponden a la categoría intermedia.
+
+**Justificación:**
+
+* El documento define una **Escena intermedia** como aquella que cuenta con "tratamiento visual trabajado, personaje con acción definida, composición dinámica, recursos gráficos en movimiento y sincronización con locución y subtítulos.".
+* La gran mayoría del curso encaja aquí: todas las tomas donde vemos a los avatares hablando frente a la mina, en la sala de control, en la oficina o señalando viñetas. Cumplen con tener un personaje con acción definida y recursos gráficos de apoyo sobre fondos que se mantienen estables durante la explicación.
+
+### 3. ¿Cuántas escenas de complejidad alta existen en el curso?
+
+Se identificaron aproximadamente **entre 30 y 40 escenas** que alcanzan el nivel de complejidad avanzada.
+
+**Justificación:**
+
+* El documento define una **Escena avanzada** como aquella con "mayor densidad visual, múltiples elementos animados, composición más sofisticada, tratamiento gráfico más detallado y un nivel superior de exigencia narrativa y audiovisual.".
+* En el video, estas escenas son muy evidentes y se diferencian claramente de las intermedios. Corresponden a los momentos donde se explica el funcionamiento geológico o la maquinaria, tales como:
+* Los cortes transversales del terreno mostrando las capas freáticas y el agua en movimiento.
+* Las vistas isométricas de la mina con camiones transitando y máquinas perforadoras operando.
+* Las animaciones donde se ilustra la inestabilidad de taludes (rocas cayendo).
+* La animación del camión atascándose en el barro.
+* Las simulaciones de filtraciones y rebalses de agua en el tranque de relaves.
+
+
+
+### 4. ¿Cuántos quizzes existen en el curso?
+
+El curso contiene exactamente **10 quizzes** integrados en la narrativa audiovisual.
+
+**Justificación:**
+
+* Los quizzes se visualizan en el video divididos en dos bloques principales de evaluación (uno a la mitad del curso y otro hacia el final).
+* Según la clasificación del documento, los 10 componentes interactivos corresponden a la categoría de **Quiz simple**.
+* Esto se debe a que la definición de "Quiz simple" incluye explícitamente interacciones de "verdadero/falso... con retroalimentación sencilla.". Las 10 preguntas observadas en el video utilizan el formato binario de "Verdadero / Falso" y, tras responder, muestran una pantalla de validación básica ("¡Correcto!" o "¡No es la opción correcta!") acompañada de una breve justificación en texto y una animación de celebración o negación del avatar. No se observan lógicas complejas de intentos o navegación condicional que los eleven a intermedios o especiales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Con base en las cantidades estimadas en el análisis anterior y los valores referenciales definidos en el archivo `estimacion.md`, a continuación te presento el cuadro de costos proyectado.
+
+Dado que el conteo de escenas se entregó en rangos debido a la naturaleza de la estimación sin guion final, el cuadro refleja un escenario mínimo y uno máximo para las escenas variables:
+
+| Concepto / Componente | Valor Unitario Referencial | Cantidad Estimada | Costo Total Estimado (Rango) |
+| --- | --- | --- | --- |
+| **Costo fijo base del curso** (Configuración, SCORM, QA) | desde COP 4.800.000 | 1 curso | COP 4.800.000 |
+| **Escenas Intermedias** (Personaje, recursos, locución) | desde COP 240.000 | 110 - 120 escenas | COP 26.400.000 – COP 28.800.000 |
+| **Escenas Avanzadas** (Animaciones densas, isométricas) | desde COP 450.000 | 30 - 40 escenas | COP 13.500.000 – COP 18.000.000 |
+| **Quiz Simple** (Verdadero/Falso con feedback simple) | desde COP 300.000 | 10 componentes | COP 3.000.000 |
+| **TOTAL ESTIMADO REFERENCIAL** |  |  | **COP 47.700.000 – COP 54.600.000** |
+
+**Notas importantes sobre este cuadro:**
+
+* Todos los montos son calculados a partir de los valores "desde" especificados en el modelo.
+* Como aclara el documento, estos valores deben entenderse como una **referencia base de estimación** y "no como una cotización cerrada o definitiva". El costo definitivo y el cronograma preciso solo podrán establecerse "una vez se revise el contenido final aprobado por el cliente y se determine el inventario real de escenas e interacciones".
